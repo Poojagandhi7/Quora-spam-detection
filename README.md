@@ -4,13 +4,13 @@ A machine learning model that classifies questions as **sincere** or **insincere
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses traditional NLP techniques (TF-IDF) and a Logistic Regression model to identify whether a question contains toxic, hateful, or insincere content. The model is trained on real user-generated data from Quora.
 
 ---
 
-## 🧠 Technologies & Tools
+## Technologies & Tools
 
 - Python
 - Jupyter Notebook
@@ -22,7 +22,7 @@ This project uses traditional NLP techniques (TF-IDF) and a Logistic Regression 
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source**: [Kaggle - Quora Insincere Questions Classification](https://www.kaggle.com/competitions/quora-insincere-questions-classification)
 - **Columns used**:
@@ -30,8 +30,6 @@ This project uses traditional NLP techniques (TF-IDF) and a Logistic Regression 
   - `target` — 1 (insincere) or 0 (sincere)
 
 ---
-
-## ⚙️ How It Works
 
 1. **Preprocessing**:
    - Lowercasing
@@ -54,7 +52,7 @@ This project uses traditional NLP techniques (TF-IDF) and a Logistic Regression 
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric        | Score |
 |---------------|-------|
