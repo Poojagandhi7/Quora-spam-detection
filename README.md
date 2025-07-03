@@ -58,5 +58,5 @@ This project uses traditional NLP techniques (TF-IDF) and a Logistic Regression 
 |---------------|-------|
 | Accuracy      | 0.8743 |
 | F1 Score      | 0.4566 |
-| Confusion Matrix | ✅ Visualized using seaborn |
+| Confusion Matrix | Visualized using seaborn |
 
